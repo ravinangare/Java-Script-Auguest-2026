@@ -6,6 +6,7 @@ class DashboardPage extends BasePage{
         this.dropDownTab = page.locator(".oxd-userdropdown-tab")
         this.logoutBtn = page.getByRole('menuitem', { name: 'Logout' })
         this.userProfileIcon = page.getByRole('img', { name: 'profile picture' }).nth(1)
+        this.AdminLink = page.getByText('Admin').first()
     }
     async isDashboardPageHeadingVisible(){
        await this.dashboardHeading.waitFor({
