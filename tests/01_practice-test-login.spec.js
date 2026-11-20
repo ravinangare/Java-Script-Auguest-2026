@@ -2,8 +2,8 @@ const { test, expect } = require('@playwright/test');
 
 
 const LOGIN_URL = 'https://practicetestautomation.com/practice-test-login/';
-const USERNAME = 'student';
-const PASSWORD = 'Password123';
+const USERNAME = 'admin';
+const PASSWORD = 'admin123';
 
 test.describe('Practice Test Automation Login', () => {
   test('should log in successfully with valid credentials', async ({ page }) => {
