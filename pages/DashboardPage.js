@@ -7,6 +7,7 @@ class DashboardPage extends BasePage{
         this.logoutBtn = page.getByRole('menuitem', { name: 'Logout' })
         this.userProfileIcon = page.getByRole('img', { name: 'profile picture' }).nth(1)
         this.AdminLink = page.getByText('Admin').first()
+        this.PIMLink = page.getByText('PIM').first() 
     }
     async isDashboardPageHeadingVisible(){
        await this.dashboardHeading.waitFor({
