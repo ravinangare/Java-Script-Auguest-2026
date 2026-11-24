@@ -1,9 +1,0 @@
-Response Body: [
-  { id: '1', name: 'Vipul', email: 'vipul.m@gmail.com', city: 'pune' },
-  {
-    id: '2',
-    name: 'Tejas',
-    email: 'tejas.v@gmail.com',
-    city: 'Nagpur'
-  }
-]

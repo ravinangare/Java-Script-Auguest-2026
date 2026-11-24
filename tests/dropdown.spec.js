@@ -2,7 +2,7 @@ import{test,expect} from '@playwright/test'
 
 test('static dropdown test',async({page})=>{
   await page.goto("https://testautomationpractice.blogspot.com/")
-  await page.locator("#country").selectOption("canada");    // select by value
+  await page.locator("#country").selectOption("uk");    // select by value
   await page.waitForTimeout(2000)
   await page.locator("#country").selectOption({label:"United Kingdom"});  // select by label
   await page.waitForTimeout(2000)

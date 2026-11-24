@@ -1,0 +1,880 @@
+- generic [active] [ref=f53e1]:
+  - banner [ref=f53e2]:
+    - link "Skip to main content" [ref=f53e3] [cursor=pointer]:
+      - /url: "#main"
+    - generic [ref=f53e5]:
+      - generic [ref=f53e6]:
+        - link "India GoDaddy" [ref=f53e8] [cursor=pointer]:
+          - /url: https://www.godaddy.com/en-in
+          - generic [ref=f53e9]: India
+          - figure "GoDaddy" [ref=f53e10]
+        - navigation "Navigation" [ref=f53e13]:
+          - button "Open Hamburger Menu" [ref=f53e14] [cursor=pointer]
+          - generic [ref=f53e16]:
+            - generic [ref=f53e17]:
+              - link [ref=f53e20] [cursor=pointer]:
+                - /url: https://www.godaddy.com/en-in
+                - figure "GoDaddy" [ref=f53e21]
+              - list [aria-hidden] [ref=f53e24]:
+                - listitem [ref=f53e25] [cursor=pointer]:
+                  - button [ref=f53e26]:
+                    - generic [ref=f53e27]: Domains
+                - listitem [ref=f53e29] [cursor=pointer]:
+                  - button [ref=f53e30]:
+                    - generic [ref=f53e31]: Websites
+                - listitem [ref=f53e33] [cursor=pointer]:
+                  - link [ref=f53e34]:
+                    - /url: https://www.godaddy.com/en-in/email/professional-business-email
+                    - text: Email
+                - listitem [ref=f53e35] [cursor=pointer]:
+                  - button [ref=f53e36]:
+                    - generic [ref=f53e37]: Hosting
+                - listitem [ref=f53e39] [cursor=pointer]:
+                  - button [ref=f53e40]:
+                    - generic [ref=f53e41]: Marketing
+                - listitem [ref=f53e43] [cursor=pointer]:
+                  - link [ref=f53e44]:
+                    - /url: https://www.godaddy.com/en-in/web-security/ssl-certificate
+                    - text: SSL Certificates
+                - listitem [ref=f53e45] [cursor=pointer]:
+                  - link [ref=f53e46]:
+                    - /url: https://www.godaddy.com/en-in/airo/ai-builder
+                    - text: Airo AI Builder
+                - listitem [ref=f53e47] [cursor=pointer]:
+                  - link [ref=f53e48]:
+                    - /url: https://www.godaddy.com/en-in/pricing
+                    - text: Pricing
+            - button "Close" [ref=f53e49] [cursor=pointer]
+      - generic [ref=f53e51]:
+        - link "Deals" [ref=f53e52] [cursor=pointer]:
+          - /url: https://www.godaddy.com/en-in/great-deals
+        - group "Help" [ref=f53e54]:
+          - generic [ref=f53e55] [cursor=pointer]
+        - group [ref=f53e57]:
+          - generic "Sign In" [ref=f53e58] [cursor=pointer]
+        - link [ref=f53e61] [cursor=pointer]:
+          - /url: https://cart.godaddy.com/
+  - main [ref=f53e64]:
+    - navigation [ref=f53e66]:
+      - generic [ref=f53e67]:
+        - generic [ref=f53e68]: Airo AI Builder
+        - group [ref=f53e78]:
+          - button "Start Airo AI Builder for Free" [ref=f53e80] [cursor=pointer]:
+            - generic: Start for Free
+    - generic [ref=f53e82]:
+      - generic [ref=f53e83]:
+        - generic [ref=f53e84]:
+          - heading "GoDaddy Website Builder" [level=1] [ref=f53e86]
+          - heading "Describe your idea. Create your website in minutes." [level=2] [ref=f53e87]:
+            - text: Describe your idea. Create your website in
+            - generic [ref=f53e88]: minutes.
+          - paragraph [ref=f53e89]: With a few prompts GoDaddy Website Builder generates your website, web app, pages, databases and logic in minutes, no coding required. Start for free with 50 AI credits a month. No credit card required.
+        - generic [ref=f53e94]:
+          - generic [ref=f53e95]:
+            - textbox "Buil" [ref=f53e96]
+            - generic [ref=f53e97]:
+              - button "Attach File Button" [ref=f53e99] [cursor=pointer]
+              - button "Speech Button" [ref=f53e101] [cursor=pointer]
+              - button "Generate" [disabled] [ref=f53e102]
+          - generic:
+            - generic:
+              - text: AI may make mistakes. By using Airo you agree to our
+              - button "Terms" [ref=f53e103] [cursor=pointer]
+          - generic [ref=f53e104]:
+            - button "Redesign with a fresh look" [ref=f53e105] [cursor=pointer]
+            - button "Build an online store" [ref=f53e106] [cursor=pointer]
+            - button "Create a business directory" [ref=f53e107] [cursor=pointer]
+      - generic [ref=f53e108]:
+        - generic "Image gallery carousel" [ref=f53e109]:
+          - generic [ref=f53e110]:
+            - 'group "Slide 1 of 5: Web Apps. Start for Free" [ref=f53e111] [cursor=pointer]':
+              - generic [ref=f53e113]:
+                - generic:
+                  - img "AI Builder"
+            - 'group "Slide 2 of 5: Websites" [ref=f53e114] [cursor=pointer]':
+              - generic [ref=f53e116]:
+                - generic:
+                  - img "AI Builder"
+            - group [aria-hidden]
+            - group [aria-hidden]
+            - 'group "Slide 5 of 5: Portfolios" [ref=f53e117] [cursor=pointer]':
+              - generic [ref=f53e119]:
+                - generic:
+                  - img "AI Builder"
+          - tablist "Carousel categories" [ref=f53e121]:
+            - generic [ref=f53e122]:
+              - tab "Web Apps" [selected] [ref=f53e123] [cursor=pointer]
+              - tab "Websites" [ref=f53e124] [cursor=pointer]
+              - tab "Online Stores" [ref=f53e125] [cursor=pointer]
+              - tab "Dashboards" [ref=f53e126] [cursor=pointer]
+              - tab "Portfolios" [ref=f53e127] [cursor=pointer]
+          - generic [ref=f53e128]:
+            - paragraph [ref=f53e129]: From fitness trackers to reservations systems, build web apps that make customers smile.
+            - link "Get Started with Airo AI Builder" [ref=f53e131] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f53e132]: Start for Free
+        - button "play button" [ref=f53e134] [cursor=pointer]
+    - generic [ref=f53e140]:
+      - generic [ref=f53e141]:
+        - generic [ref=f53e142]: Our customers say
+        - paragraph [ref=f53e143]: Excellent
+      - generic [ref=f53e144]: 4.4 out of 5 stars based on 143,749 reviews
+      - link [ref=f53e168] [cursor=pointer]:
+        - /url: https://www.trustpilot.com/review/www.godaddy.com
+        - img "trustpilot logo" [ref=f53e170]
+    - navigation [ref=f53e172]:
+      - menu [ref=f53e175]:
+        - menuitem "Scroll To Top" [ref=f53e176] [cursor=pointer]
+        - menuitem [ref=f53e178] [cursor=pointer]:
+          - link "Scroll to id-1qvMSmOIy00chMgNOLIDvY" [ref=f53e179]:
+            - /url: "#id-1qvMSmOIy00chMgNOLIDvY"
+            - text: See Plans and Pricing
+        - menuitem [ref=f53e180] [cursor=pointer]:
+          - link "Scroll to id-46YGAZgaH0uyhkS0sdIe6y" [ref=f53e181]:
+            - /url: "#id-46YGAZgaH0uyhkS0sdIe6y"
+            - text: Why GoDaddy?
+        - menuitem [ref=f53e182] [cursor=pointer]:
+          - link "Scroll to id-2uzwy267IUSUMN0KC0w6Hf" [ref=f53e183]:
+            - /url: "#id-2uzwy267IUSUMN0KC0w6Hf"
+            - text: Testimonials
+        - menuitem [ref=f53e184] [cursor=pointer]:
+          - link "Scroll to id-5yJAFxlxAEv9hr3GkqoWPs" [ref=f53e185]:
+            - /url: "#id-5yJAFxlxAEv9hr3GkqoWPs"
+            - text: Features
+        - menuitem [ref=f53e186] [cursor=pointer]:
+          - link "Scroll to id-50n4hJoPKTQBkIrp7Wr1qv" [ref=f53e187]:
+            - /url: "#id-50n4hJoPKTQBkIrp7Wr1qv"
+            - text: FAQs
+    - generic [ref=f53e189]:
+      - img "Domain icon inline banner" [ref=f53e191]
+      - generic [ref=f53e192]:
+        - paragraph [ref=f53e193]:
+          - generic [ref=f53e194]: free domain
+        - heading "Get a free domain with any paid Airo AI Builder plan" [level=2] [ref=f53e195]
+      - group [ref=f53e199]:
+        - link "See Plans and Prices" [ref=f53e201] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f53e202]: See Plans and Pricing
+    - generic [ref=f53e205]:
+      - generic [ref=f53e207]:
+        - heading "Affordable plans that suit your needs" [level=2] [ref=f53e208]
+        - paragraph [ref=f53e211]: Airo AI Builder costs less than Wix, Squarespace, Lovable, and Base44.
+      - radiogroup [ref=f53e214]:
+        - radio "Annual" [checked]
+        - generic [ref=f53e215] [cursor=pointer]: Annual
+        - radio "Monthly"
+        - generic [ref=f53e217] [cursor=pointer]: Monthly
+      - generic [ref=f53e222]:
+        - heading "Included in all paid plans:" [level=2] [ref=f53e224]
+        - generic [ref=f53e226]:
+          - heading "Mobile-friendly site" [level=3] [ref=f53e227]
+          - generic [ref=f53e228]: Easily reach customers wherever they are.
+          - heading "24/7 expert support" [level=3] [ref=f53e229]
+          - generic [ref=f53e230]: Our GoDaddy Guides are always here to help.
+          - heading "Edit text and images without using credits" [level=3] [ref=f53e231]
+          - generic [ref=f53e232]: Use your credits to create a site and web apps, not basic editing.
+          - heading "Download your code anytime" [level=3] [ref=f53e233]
+          - generic [ref=f53e234]: You always have control over your code.
+          - heading "Collaborate easily" [level=3] [ref=f53e235]
+          - generic [ref=f53e236]: Invite others to build and manage your site.
+          - heading "SSL and DDoS protection" [level=3] [ref=f53e237]
+          - generic [ref=f53e238]: Keep your data safe and block fake traffic to your site.
+    - generic [ref=f53e241]:
+      - generic [ref=f53e242]:
+        - heading "If your business needs it, Airo can build it (in minutes)" [level=2] [ref=f53e245]
+        - list [ref=f53e248]:
+          - listitem [ref=f53e249]:
+            - group [ref=f53e250] [cursor=pointer]:
+              - button "Online Stores. Showcase products and help increase sales. Connect to payments, launch online, get found with built-in SEO, and start selling from the day your site launches." [expanded] [ref=f53e252]:
+                - generic [ref=f53e258]:
+                  - generic [ref=f53e259]: Online Stores.
+                  - text: Showcase products and help increase sales. Connect to payments, launch online, get found with built-in SEO, and start selling from the day your site launches.
+          - listitem [ref=f53e262]:
+            - group [ref=f53e263] [cursor=pointer]:
+              - button "Appointments and Scheduling" [ref=f53e265]
+          - listitem [ref=f53e274]:
+            - group [ref=f53e275] [cursor=pointer]:
+              - button "Portfolios" [ref=f53e277]
+          - listitem [ref=f53e286]:
+            - group [ref=f53e287] [cursor=pointer]:
+              - button "Blogs" [ref=f53e289]
+      - generic [ref=f53e299]:
+        - img "img wsb slp aab feat accordion ols 1" [ref=f53e304]
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img "img wsb slp aab feat accordion appts 2"
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img "img wsb slp aab feat accordion portfolio 3"
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img "img wsb slp aab feat accordion blog 4"
+    - generic [ref=f53e307]:
+      - heading "Go from prompt to full-stack website, no coding required" [level=2] [ref=f53e310]
+      - generic [ref=f53e313]:
+        - generic [ref=f53e314]:
+          - button "play button" [ref=f53e317] [cursor=pointer]
+          - img "Feature2Desktop" [ref=f53e323]
+          - img "Feature3Desktop" [ref=f53e326]
+        - generic [ref=f53e327]:
+          - generic [ref=f53e331] [cursor=pointer]:
+            - heading "Skip the blank canvas" [level=3] [ref=f53e332]
+            - paragraph [ref=f53e334]: Tell us about your project and our AI website creator quickly lays out pages, sections, starter copy, and images. If you’re feeling stuck, template prompts get you back on track.
+          - generic [ref=f53e338] [cursor=pointer]:
+            - heading "Easy editing as your website evolves" [level=3] [ref=f53e339]
+            - paragraph [ref=f53e342]: Quickly refine layout, tone, and visuals yourself, or use AI. All your code is remembered and applied across your project, for more efficient editing.
+          - generic [ref=f53e346] [cursor=pointer]:
+            - heading "Publish fast, with the backend built in" [level=3] [ref=f53e347]
+            - paragraph [ref=f53e350]: One-click deploy on GoDaddy hosting, SSL, forms, and analytics is baked in. Launch a professional website without writing a line of code, and export your code anytime.
+      - group [ref=f53e353]:
+        - link "Get Started with Airo AI Builder" [ref=f53e355] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f53e356]: Start for Free
+    - generic [ref=f53e359]:
+      - generic [ref=f53e361]:
+        - heading "Build and launch your site, fast" [level=2] [ref=f53e362]
+        - paragraph [ref=f53e365]: Start with an easy-to-customize template to save AI credits and bring your idea to life.
+      - generic [ref=f53e367]:
+        - generic [ref=f53e369]:
+          - 'link "Preview: Zest" [ref=f53e370] [cursor=pointer]':
+            - /url: https://www.godaddy.com/website-templates/zest?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+            - img "Zest template preview" [ref=f53e373]
+          - generic [ref=f53e374]:
+            - generic [ref=f53e375]:
+              - heading "Zest" [level=3] [ref=f53e376]
+              - paragraph [ref=f53e377]: A bold, high-contrast restaurant website template for taquerias, street food businesses, food trucks, and independent hospitality brands that want to lead with attitude, showcase a full menu with photography, and convert visitors into customers and catering enquiries.
+            - generic [ref=f53e378]:
+              - 'link "Choose Template: Zest" [ref=f53e379] [cursor=pointer]':
+                - /url: https://airo-builder.godaddy.com/create?siteTemplateId=zest&initialPrompt=I+chose+the+%22Zest%22+site+template+as+my+starting+point.+The+template+is+already+applied+%E2%80%94+walk+me+through+personalizing+it+for+my+business.&itc=slp_templates_tile&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e380]: Choose Template
+              - 'link "Preview: Zest" [ref=f53e381] [cursor=pointer]':
+                - /url: https://www.godaddy.com/website-templates/zest?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e382]: Preview
+        - generic [ref=f53e384]:
+          - 'link "Preview: Estelle" [ref=f53e385] [cursor=pointer]':
+            - /url: https://www.godaddy.com/website-templates/estelle?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+            - img "Estelle template preview" [ref=f53e388]
+          - generic [ref=f53e389]:
+            - generic [ref=f53e390]:
+              - heading "Estelle" [level=3] [ref=f53e391]
+              - paragraph [ref=f53e392]: A warm, editorial website template for skincare, beauty, and wellness brands selling a curated product line. Estelle pairs photography-led storytelling with a step-by-step routine layout and filtered shop, helping small-catalog brands build trust and guide customers from discovery to purchase.
+            - generic [ref=f53e393]:
+              - 'link "Choose Template: Estelle" [ref=f53e394] [cursor=pointer]':
+                - /url: https://airo-builder.godaddy.com/create?siteTemplateId=estelle&initialPrompt=I+chose+the+%22Estelle%22+site+template+as+my+starting+point.+The+template+is+already+applied+%E2%80%94+walk+me+through+personalizing+it+for+my+business.&itc=slp_templates_tile&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e395]: Choose Template
+              - 'link "Preview: Estelle" [ref=f53e396] [cursor=pointer]':
+                - /url: https://www.godaddy.com/website-templates/estelle?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e397]: Preview
+        - generic [ref=f53e399]:
+          - 'link "Preview: Reverie" [ref=f53e400] [cursor=pointer]':
+            - /url: https://www.godaddy.com/website-templates/reverie?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+            - img "Reverie template preview" [ref=f53e403]
+          - generic [ref=f53e404]:
+            - generic [ref=f53e405]:
+              - heading "Reverie" [level=3] [ref=f53e406]
+              - paragraph [ref=f53e407]: Atmospheric and cinematic. Let photography lead, arrange content like a gallery, and turn a product catalogue into an editorial world. For brands that want every page to feel like a considered publication.
+            - generic [ref=f53e408]:
+              - 'link "Choose Template: Reverie" [ref=f53e409] [cursor=pointer]':
+                - /url: https://airo-builder.godaddy.com/create?siteTemplateId=reverie&initialPrompt=I+chose+the+%22Reverie%22+site+template+as+my+starting+point.+The+template+is+already+applied+%E2%80%94+walk+me+through+personalizing+it+for+my+business.&itc=slp_templates_tile&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e410]: Choose Template
+              - 'link "Preview: Reverie" [ref=f53e411] [cursor=pointer]':
+                - /url: https://www.godaddy.com/website-templates/reverie?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e412]: Preview
+        - generic [ref=f53e414]:
+          - 'link "Preview: Pulse" [ref=f53e415] [cursor=pointer]':
+            - /url: https://www.godaddy.com/website-templates/pulse?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+            - img "Pulse template preview" [ref=f53e418]
+          - generic [ref=f53e419]:
+            - generic [ref=f53e420]:
+              - heading "Pulse" [level=3] [ref=f53e421]
+              - paragraph [ref=f53e422]: Modern and energetic, with smart structure underneath. Show services clearly, guide visitors through your process, and make it easy to book. Built for service businesses that want to feel current without chasing trends.
+            - generic [ref=f53e423]:
+              - 'link "Choose Template: Pulse" [ref=f53e424] [cursor=pointer]':
+                - /url: https://airo-builder.godaddy.com/create?siteTemplateId=pulse&initialPrompt=I+chose+the+%22Pulse%22+site+template+as+my+starting+point.+The+template+is+already+applied+%E2%80%94+walk+me+through+personalizing+it+for+my+business.&itc=slp_templates_tile&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e425]: Choose Template
+              - 'link "Preview: Pulse" [ref=f53e426] [cursor=pointer]':
+                - /url: https://www.godaddy.com/website-templates/pulse?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e427]: Preview
+        - generic [ref=f53e429]:
+          - 'link "Preview: Meridian" [ref=f53e430] [cursor=pointer]':
+            - /url: https://www.godaddy.com/website-templates/meridian?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+            - img "Meridian template preview" [ref=f53e433]
+          - generic [ref=f53e434]:
+            - generic [ref=f53e435]:
+              - heading "Meridian" [level=3] [ref=f53e436]
+              - paragraph [ref=f53e437]: Conviction-led and proof-driven. Showcase your track record, articulate your philosophy, and attract clients who value expertise over explanation. Built for advisory businesses where credibility opens the conversation.
+            - generic [ref=f53e438]:
+              - 'link "Choose Template: Meridian" [ref=f53e439] [cursor=pointer]':
+                - /url: https://airo-builder.godaddy.com/create?siteTemplateId=meridian&initialPrompt=I+chose+the+%22Meridian%22+site+template+as+my+starting+point.+The+template+is+already+applied+%E2%80%94+walk+me+through+personalizing+it+for+my+business.&itc=slp_templates_tile&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e440]: Choose Template
+              - 'link "Preview: Meridian" [ref=f53e441] [cursor=pointer]':
+                - /url: https://www.godaddy.com/website-templates/meridian?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e442]: Preview
+        - generic [ref=f53e444]:
+          - 'link "Preview: Obsidian" [ref=f53e445] [cursor=pointer]':
+            - /url: https://www.godaddy.com/website-templates/obsidian?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+            - img "Obsidian template preview" [ref=f53e448]
+          - generic [ref=f53e449]:
+            - generic [ref=f53e450]:
+              - heading "Obsidian" [level=3] [ref=f53e451]
+              - paragraph [ref=f53e452]: Institutional and exacting. Present global operations with precision, publish corporate content, and project the quiet authority that enterprise clients expect. For businesses where scale and rigor are the story.
+            - generic [ref=f53e453]:
+              - 'link "Choose Template: Obsidian" [ref=f53e454] [cursor=pointer]':
+                - /url: https://airo-builder.godaddy.com/create?siteTemplateId=obsidian&initialPrompt=I+chose+the+%22Obsidian%22+site+template+as+my+starting+point.+The+template+is+already+applied+%E2%80%94+walk+me+through+personalizing+it+for+my+business.&itc=slp_templates_tile&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e455]: Choose Template
+              - 'link "Preview: Obsidian" [ref=f53e456] [cursor=pointer]':
+                - /url: https://www.godaddy.com/website-templates/obsidian?itc=slp_templates_preview&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                - generic [ref=f53e457]: Preview
+      - link "Explore All Templates" [ref=f53e459] [cursor=pointer]:
+        - /url: https://www.godaddy.com/en-in/website-templates?utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+    - generic [ref=f53e464]:
+      - generic [ref=f53e466]:
+        - heading "How to create a website" [level=2] [ref=f53e467]
+        - paragraph [ref=f53e470]: Whether you're putting together a portfolio, selling cookies, or offering legal services, follow these easy steps to get started.
+      - list [ref=f53e473]:
+        - listitem [ref=f53e474]:
+          - generic [ref=f53e475]: Define your business. GoDaddy Website Builder builds a personalized website in minutes.
+        - listitem [ref=f53e476]:
+          - generic [ref=f53e477]: Customize with ease. Add your content, logo, and products. AI helps refine design and copy.
+        - listitem [ref=f53e478]:
+          - generic [ref=f53e479]: Add functionality. Easily add more features or apps as you need it through simple conversation.
+        - listitem [ref=f53e480]:
+          - generic [ref=f53e481]: Secure your domain. Choose and register a domain name that fits your brand.
+        - listitem [ref=f53e482]:
+          - generic [ref=f53e483]: Preview and publish. Review your site across devices, then launch with confidence.
+        - listitem [ref=f53e484]:
+          - generic [ref=f53e485]: Spread the word. Use built in marketing tools to let people know you are open to business.
+        - listitem [ref=f53e486]:
+          - generic [ref=f53e487]: Stay in control. Manage orders, reviews, and social, all from one dashboard on any device.
+    - generic [ref=f53e490]:
+      - generic [ref=f53e492]:
+        - heading "Bring your idea to life online with the magic of AI" [level=3] [ref=f53e493]
+        - paragraph [ref=f53e496]: Find the perfect business and domain name with AI Domain Search — part of our AI-powered, customizable experience.
+        - group [ref=f53e499]:
+          - link "Try AI Domain Search" [ref=f53e501] [cursor=pointer]:
+            - /url: https://www.godaddy.com/en-in/domainsearch/find?unifiedSearch=true&launchAISearch=+&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+      - img "Use GoDaddy Airo™ to find the perfect domain name" [ref=f53e505]
+    - generic [ref=f53e508]:
+      - heading "Building a powerful website has never been easier" [level=2] [ref=f53e511]
+      - generic [ref=f53e513]:
+        - paragraph [ref=f53e516]:
+          - generic [ref=f53e517]: Mireya’s Mexican Restaurant
+          - paragraph [ref=f53e518]: mireyasmexicanrestaurant.com
+        - generic [ref=f53e519]:
+          - heading "“This tool made it so simple to create a website, especially for someone who had no idea where to start.”" [level=3] [ref=f53e521]
+          - generic [ref=f53e523]:
+            - generic [ref=f53e524]:
+              - paragraph [ref=f53e527]:
+                - generic [ref=f53e528]: Products used by
+                - paragraph [ref=f53e529]: "Mireya’s Mexican Restaurant:"
+              - list [ref=f53e530]:
+                - listitem [ref=f53e531]:
+                  - link "Domain-button" [ref=f53e535] [cursor=pointer]:
+                    - /url: https://www.godaddy.com/en-in/domains?utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                    - generic [ref=f53e536]: Domain
+                - listitem [ref=f53e537]:
+                  - link "Airo AI Builder-button" [ref=f53e541] [cursor=pointer]:
+                    - /url: https://www.godaddy.com/en-in/airo/ai-builder?utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+                    - generic [ref=f53e542]: Airo AI Builder
+            - img "CustomerComponentSite" [ref=f53e545]
+    - generic [ref=f53e547]:
+      - generic [ref=f53e548]:
+        - heading "Developer-grade control. Newbie-friendly Website Builder features." [level=2] [ref=f53e552]
+        - tablist "Content segments" [ref=f53e555]:
+          - generic [ref=f53e556]:
+            - tab "Small Businesses" [selected] [ref=f53e557] [cursor=pointer]
+            - tab "Developers" [ref=f53e558] [cursor=pointer]
+            - tab "Creatives" [ref=f53e559] [cursor=pointer]
+      - generic [ref=f53e573]:
+        - button "Previous cards" [ref=f53e574] [cursor=pointer]
+        - button "Next cards" [ref=f53e578] [cursor=pointer]
+      - group [ref=f53e584]:
+        - link "See Plans" [ref=f53e586] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=f53e590]:
+      - heading "Trusted by 20+ million customers around the world" [level=2] [ref=f53e592]
+      - generic [ref=f53e594]:
+        - generic [ref=f53e595]:
+          - generic [ref=f53e597]:
+            - generic [ref=f53e598]:
+              - paragraph [ref=f53e599]: Best website builder
+              - img "Rating 5 of out 5 stars." [ref=f53e600]
+              - paragraph [ref=f53e621]: Go Daddy’s new Airo web builder is ubelievable easy and fast! So glad I made the switch.
+            - paragraph [ref=f53e622]: Kristy Hall
+          - generic [ref=f53e624]:
+            - generic [ref=f53e625]:
+              - paragraph [ref=f53e626]: Totally impressed
+              - img "Rating 5 of out 5 stars." [ref=f53e627]
+              - paragraph [ref=f53e648]: An excellent experience. Provided a helpful, friendly atmosphere with detailed knowledge. The AI builder is sensational.
+            - paragraph [ref=f53e649]: Susan Maxwell
+          - generic [ref=f53e651]:
+            - generic [ref=f53e652]:
+              - paragraph [ref=f53e653]: Well I have been using Godaddy for many…
+              - img "Rating 5 of out 5 stars." [ref=f53e654]
+              - paragraph [ref=f53e675]: Well I have been using Godaddy for many of years and had nothing but great service professional and very helpful for one! They always solved my issues if I had them. The website builder is great and the selection of domain names as well!!! To say the least of them. I highly recomend godaddy to all!!! Thank you all.
+            - paragraph [ref=f53e676]: Snezana
+          - generic [ref=f53e678]:
+            - generic [ref=f53e679]:
+              - paragraph [ref=f53e680]: I used Godaddy Airo Al Builder, it’s was user friendly and it helped me build a professional website. I explain what I wanted and it was executed!
+              - img "Rating 5 of out 5 stars." [ref=f53e681]
+              - paragraph [ref=f53e702]: I used Godaddy ai
+            - paragraph [ref=f53e703]: Alicia Dodson
+          - generic [ref=f53e705]:
+            - generic [ref=f53e706]:
+              - paragraph [ref=f53e707]: Easy to use interface
+              - img "Rating 5 of out 5 stars." [ref=f53e708]
+              - paragraph [ref=f53e729]: Love how easy the website builder is, also great customer service when we have the occasion problem. Highly recommend this product/service!
+            - paragraph [ref=f53e730]: ShariSheena Brown
+          - generic [ref=f53e732]:
+            - generic [ref=f53e733]:
+              - paragraph [ref=f53e734]: I am a beginner in web design
+              - img "Rating 5 of out 5 stars." [ref=f53e735]
+              - paragraph [ref=f53e756]: I am a beginner in web design. I tried a free account to test manual and AI website builders on multiple best for beginners web hosting sites to build my website. GoDaddy created the best free site. I called in and had to wait some time, but got a very helpful English speaker to assist me. I will be choosing GoDaddy for my website and going with the AI version of website builder, which is easier and actually cheaper per month.
+            - paragraph [ref=f53e757]: Christa Watts
+          - generic [ref=f53e759]:
+            - generic [ref=f53e760]:
+              - paragraph [ref=f53e761]: I'm starting a website for a new non…
+              - img "Rating 5 of out 5 stars." [ref=f53e762]
+              - paragraph [ref=f53e783]: I'm starting a website for a new non profit and the Ai builder is amazing!! Much easier when i was younger and you needed a professional to write all the code. Would highly recommend! I contacted customer support with an issue of my registering .org and .net and they resolved it for me!
+            - paragraph [ref=f53e784]: Su Ch
+          - generic [ref=f53e786]:
+            - generic [ref=f53e787]:
+              - paragraph [ref=f53e788]: Airo AI builder is excellent and being…
+              - img "Rating 5 of out 5 stars." [ref=f53e789]
+              - paragraph [ref=f53e810]: Airo AI builder is excellent and being able to talk to live knowledgeable and actually helpful customer support is great.
+            - paragraph [ref=f53e811]: Tim Ennesser
+          - generic [ref=f53e813]:
+            - generic [ref=f53e814]:
+              - paragraph [ref=f53e815]: Customer service is top notch
+              - img "Rating 4 of out 5 stars." [ref=f53e816]
+              - paragraph [ref=f53e837]: Customer service is top notch. Needed to have my old domain to go with my new website, so I had to call in. They had it up and going in an hour. Explained everything well for us to create our own website on Airo AI builder.
+            - paragraph [ref=f53e838]: Chris Smith
+          - generic [ref=f53e840]:
+            - generic [ref=f53e841]:
+              - paragraph [ref=f53e842]: GoDaddy has been my domain registrar
+              - img "Rating 5 of out 5 stars." [ref=f53e843]
+              - paragraph [ref=f53e864]: GoDaddy has been my domain registrar, hosting provider, and website platform for quite some time. I’m very happy with their services. The platform is professional, easy to use, and offers many tools that have helped me manage and grow my business online. Their website builder is intuitive, and overall my experience has been very positive. I would definitely recommend GoDaddy to anyone looking for a reliable solution for domains, hosting, and website manage
+            - paragraph [ref=f53e865]: Michael Lendian
+        - generic [ref=f53e866]:
+          - generic [ref=f53e868]:
+            - link [ref=f53e869] [cursor=pointer]:
+              - /url: https://www.trustpilot.com/review/www.godaddy.com
+              - img "trustpilot logo" [ref=f53e871]
+            - generic [ref=f53e872]:
+              - link "Based on 19,697 Reviews" [ref=f53e873] [cursor=pointer]:
+                - /url: https://www.trustpilot.com/review/www.godaddy.com
+              - text: Showing our 4 and 5 stars reviews
+          - generic [ref=f53e874]:
+            - button "Previous Testimonial" [ref=f53e875] [cursor=pointer]
+            - button "Next Testimonial" [ref=f53e879] [cursor=pointer]
+    - generic [ref=f53e884]:
+      - heading "GoDaddy Website Builder FAQ" [level=2] [ref=f53e886]
+      - generic [ref=f53e888]:
+        - group [ref=f53e889] [cursor=pointer]:
+          - heading "What is a website builder? Do I need to know how to code?" [level=3] [ref=f53e891]
+          - paragraph [ref=f53e896]: A website builder is a tool or a platform that enables users and businesses to create and design their own websites without coding or programming skills. Website builders provide a user-friendly interface, pre-designed template, and multiple customization options. The GoDaddy Website Builder is an AI-powered platform perfect for DIY website creators, entrepreneurs, solopreneurs and developers, helping you easily build and launch a professional website or promote a brand or business in minutes.GoDaddy Website Builder is a no-code platform designed for all skill levels from first-time website creators to experienced developers who want to build faster. Airo immerses you in vibe coding experience and lets you build intuitively, with natural language. While Airo is a no-code app builder, we don’t lock you out. You can view the generated code and make manual edits if you want to fine-tune things directly.
+        - group [ref=f53e897] [cursor=pointer]:
+          - heading "How long does it take to create a website with GoDaddy Website Builder?" [level=3] [ref=f53e899]
+        - group [ref=f53e902] [cursor=pointer]:
+          - heading "Can I connect a custom domain to my free website?" [level=3] [ref=f53e904]
+        - group [ref=f53e907] [cursor=pointer]:
+          - heading "Can I connect my social media and website?" [level=3] [ref=f53e909]
+        - group [ref=f53e912] [cursor=pointer]:
+          - heading "Can I turn my website into an online store?" [level=3] [ref=f53e914]
+        - group [ref=f53e917] [cursor=pointer]:
+          - heading "Are SEO (Search Engine Optimization) tools included with Website Builder?" [level=3] [ref=f53e919]
+        - group [ref=f53e922] [cursor=pointer]:
+          - heading "How do I create a website?" [level=3] [ref=f53e924]
+        - group [ref=f53e927] [cursor=pointer]:
+          - heading "Does GoDaddy Website Builder stack up against other no-code website creators?" [level=3] [ref=f53e929]
+        - group [ref=f53e932] [cursor=pointer]:
+          - heading "What types of websites can I build with GoDaddy?" [level=3] [ref=f53e934]
+        - group [ref=f53e937] [cursor=pointer]:
+          - heading "Can I use GoDaddy Website Builder for a one-page website?" [level=3] [ref=f53e939]
+        - group [ref=f53e942] [cursor=pointer]:
+          - heading "Are there built-in design tools I can use to create graphics for my website?" [level=3] [ref=f53e944]
+        - group [ref=f53e947] [cursor=pointer]:
+          - heading "Can I connect my own data and APIs?" [level=3] [ref=f53e949]
+        - group [ref=f53e952] [cursor=pointer]:
+          - heading "What kind of support resources does GoDaddy offer?" [level=3] [ref=f53e954]
+        - group [ref=f53e957] [cursor=pointer]:
+          - heading "How does Website Builder pricing work?" [level=3] [ref=f53e959]
+    - generic [ref=f53e966]:
+      - generic [ref=f53e968]:
+        - generic [ref=f53e970]:
+          - generic: •
+          - paragraph [ref=f53e971]: GoDaddy is a great business partner
+        - generic [ref=f53e973]:
+          - generic: •
+          - paragraph [ref=f53e975]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e977]:
+          - generic: •
+          - paragraph [ref=f53e979]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e981]:
+          - generic: •
+          - paragraph [ref=f53e982]: Social Made Simple
+        - generic [ref=f53e984]:
+          - generic: •
+          - paragraph [ref=f53e986]: TRUSTED WORLDWIDE
+        - generic [ref=f53e988]:
+          - generic: •
+          - paragraph [ref=f53e989]: GoDaddy is a great business partner
+        - generic [ref=f53e991]:
+          - generic: •
+          - paragraph [ref=f53e993]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e995]:
+          - generic: •
+          - paragraph [ref=f53e997]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e999]:
+          - generic: •
+          - paragraph [ref=f53e1000]: Social Made Simple
+        - generic [ref=f53e1002]:
+          - generic: •
+          - paragraph [ref=f53e1004]: TRUSTED WORLDWIDE
+        - generic [ref=f53e1006]:
+          - generic: •
+          - paragraph [ref=f53e1007]: GoDaddy is a great business partner
+        - generic [ref=f53e1009]:
+          - generic: •
+          - paragraph [ref=f53e1011]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e1013]:
+          - generic: •
+          - paragraph [ref=f53e1015]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e1017]:
+          - generic: •
+          - paragraph [ref=f53e1018]: Social Made Simple
+        - generic [ref=f53e1020]:
+          - generic: •
+          - paragraph [ref=f53e1022]: TRUSTED WORLDWIDE
+      - generic [ref=f53e1024]:
+        - generic [ref=f53e1026]:
+          - generic: •
+          - paragraph [ref=f53e1027]: GoDaddy is a great business partner
+        - generic [ref=f53e1029]:
+          - generic: •
+          - paragraph [ref=f53e1031]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e1033]:
+          - generic: •
+          - paragraph [ref=f53e1035]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e1037]:
+          - generic: •
+          - paragraph [ref=f53e1038]: Social Made Simple
+        - generic [ref=f53e1040]:
+          - generic: •
+          - paragraph [ref=f53e1042]: TRUSTED WORLDWIDE
+        - generic [ref=f53e1044]:
+          - generic: •
+          - paragraph [ref=f53e1045]: GoDaddy is a great business partner
+        - generic [ref=f53e1047]:
+          - generic: •
+          - paragraph [ref=f53e1049]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e1051]:
+          - generic: •
+          - paragraph [ref=f53e1053]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e1055]:
+          - generic: •
+          - paragraph [ref=f53e1056]: Social Made Simple
+        - generic [ref=f53e1058]:
+          - generic: •
+          - paragraph [ref=f53e1060]: TRUSTED WORLDWIDE
+        - generic [ref=f53e1062]:
+          - generic: •
+          - paragraph [ref=f53e1063]: GoDaddy is a great business partner
+        - generic [ref=f53e1065]:
+          - generic: •
+          - paragraph [ref=f53e1067]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e1069]:
+          - generic: •
+          - paragraph [ref=f53e1071]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e1073]:
+          - generic: •
+          - paragraph [ref=f53e1074]: Social Made Simple
+        - generic [ref=f53e1076]:
+          - generic: •
+          - paragraph [ref=f53e1078]: TRUSTED WORLDWIDE
+      - generic [ref=f53e1080]:
+        - generic [ref=f53e1082]:
+          - generic: •
+          - paragraph [ref=f53e1083]: GoDaddy is a great business partner
+        - generic [ref=f53e1085]:
+          - generic: •
+          - paragraph [ref=f53e1087]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e1089]:
+          - generic: •
+          - paragraph [ref=f53e1091]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e1093]:
+          - generic: •
+          - paragraph [ref=f53e1094]: Social Made Simple
+        - generic [ref=f53e1096]:
+          - generic: •
+          - paragraph [ref=f53e1098]: TRUSTED WORLDWIDE
+        - generic [ref=f53e1100]:
+          - generic: •
+          - paragraph [ref=f53e1101]: GoDaddy is a great business partner
+        - generic [ref=f53e1103]:
+          - generic: •
+          - paragraph [ref=f53e1105]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e1107]:
+          - generic: •
+          - paragraph [ref=f53e1109]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e1111]:
+          - generic: •
+          - paragraph [ref=f53e1112]: Social Made Simple
+        - generic [ref=f53e1114]:
+          - generic: •
+          - paragraph [ref=f53e1116]: TRUSTED WORLDWIDE
+        - generic [ref=f53e1118]:
+          - generic: •
+          - paragraph [ref=f53e1119]: GoDaddy is a great business partner
+        - generic [ref=f53e1121]:
+          - generic: •
+          - paragraph [ref=f53e1123]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e1125]:
+          - generic: •
+          - paragraph [ref=f53e1127]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e1129]:
+          - generic: •
+          - paragraph [ref=f53e1130]: Social Made Simple
+        - generic [ref=f53e1132]:
+          - generic: •
+          - paragraph [ref=f53e1134]: TRUSTED WORLDWIDE
+      - generic [ref=f53e1136]:
+        - generic [ref=f53e1138]:
+          - generic: •
+          - paragraph [ref=f53e1139]: GoDaddy is a great business partner
+        - generic [ref=f53e1141]:
+          - generic: •
+          - paragraph [ref=f53e1143]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e1145]:
+          - generic: •
+          - paragraph [ref=f53e1147]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e1149]:
+          - generic: •
+          - paragraph [ref=f53e1150]: Social Made Simple
+        - generic [ref=f53e1152]:
+          - generic: •
+          - paragraph [ref=f53e1154]: TRUSTED WORLDWIDE
+        - generic [ref=f53e1156]:
+          - generic: •
+          - paragraph [ref=f53e1157]: GoDaddy is a great business partner
+        - generic [ref=f53e1159]:
+          - generic: •
+          - paragraph [ref=f53e1161]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e1163]:
+          - generic: •
+          - paragraph [ref=f53e1165]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e1167]:
+          - generic: •
+          - paragraph [ref=f53e1168]: Social Made Simple
+        - generic [ref=f53e1170]:
+          - generic: •
+          - paragraph [ref=f53e1172]: TRUSTED WORLDWIDE
+        - generic [ref=f53e1174]:
+          - generic: •
+          - paragraph [ref=f53e1175]: GoDaddy is a great business partner
+        - generic [ref=f53e1177]:
+          - generic: •
+          - paragraph [ref=f53e1179]: GROW YOUR OWN BUSINESS
+        - generic [ref=f53e1181]:
+          - generic: •
+          - paragraph [ref=f53e1183]: WEBSITES THAT WRITE THEMSELVES
+        - generic [ref=f53e1185]:
+          - generic: •
+          - paragraph [ref=f53e1186]: Social Made Simple
+        - generic [ref=f53e1188]:
+          - generic: •
+          - paragraph [ref=f53e1190]: TRUSTED WORLDWIDE
+    - list [ref=f53e1192]:
+      - listitem [ref=f53e1193]:
+        - link [ref=f53e1194] [cursor=pointer]:
+          - /url: https://www.godaddy.com/en-in
+          - img "GoDaddy" [ref=f53e1195]
+      - listitem [ref=f53e1199]:
+        - link "Websites" [ref=f53e1200] [cursor=pointer]:
+          - /url: https://www.godaddy.com/en-in/websites
+      - listitem [ref=f53e1203]:
+        - generic [ref=f53e1204]: Website Builder
+  - contentinfo [ref=f53e1205]:
+    - link "Skip to main content" [ref=f53e1206] [cursor=pointer]:
+      - /url: "#main"
+    - generic [ref=f53e1208]:
+      - navigation [ref=f53e1209]:
+        - list [ref=f53e1210]:
+          - listitem [ref=f53e1211]:
+            - generic [ref=f53e1212]: About GoDaddy
+            - list [ref=f53e1213]:
+              - listitem [ref=f53e1214]:
+                - link "About Us" [ref=f53e1215] [cursor=pointer]:
+                  - /url: https://aboutus.godaddy.net/about-us/overview/default.aspx
+              - listitem [ref=f53e1216]:
+                - link "Annual Returns" [ref=f53e1217] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/company/annual-returns
+              - listitem [ref=f53e1218]:
+                - link "Careers" [ref=f53e1219] [cursor=pointer]:
+                  - /url: https://careers.godaddy/
+              - listitem [ref=f53e1220]:
+                - link "Contact Us" [ref=f53e1221] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/help/contact-us
+              - listitem [ref=f53e1222]:
+                - link "GoDaddy Blog" [ref=f53e1223] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/resources
+              - listitem [ref=f53e1224]:
+                - link "Investor Relations" [ref=f53e1225] [cursor=pointer]:
+                  - /url: https://investors.godaddy.net/investor-relations/overview/default.aspx
+              - listitem [ref=f53e1226]:
+                - link "Legal" [ref=f53e1227] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/legal/agreements
+              - listitem [ref=f53e1228]:
+                - link "Newsroom" [ref=f53e1229] [cursor=pointer]:
+                  - /url: https://newsroom.godaddy.net/newsroom/overview/default.aspx
+              - listitem [ref=f53e1230]:
+                - link "Trust Center" [ref=f53e1231] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/trust-center
+          - listitem [ref=f53e1232]:
+            - generic [ref=f53e1233]: Support
+            - list [ref=f53e1234]:
+              - listitem [ref=f53e1235]:
+                - link "Product Support" [ref=f53e1236] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/help
+              - listitem [ref=f53e1237]:
+                - link "Report Abuse" [ref=f53e1238] [cursor=pointer]:
+                  - /url: https://legalportal.godaddy.com/abuse
+              - listitem [ref=f53e1239]:
+                - link "Resources" [ref=f53e1240] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/resources
+              - listitem [ref=f53e1241]:
+                - link "Domain Registration Data Disclosure Policy" [ref=f53e1242] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/help/request-for-disclosure-of-non-public-registrant-data-27915
+          - listitem [ref=f53e1243]:
+            - generic [ref=f53e1244]: Resources
+            - list [ref=f53e1245]:
+              - listitem [ref=f53e1246]:
+                - link "Developer Docs" [ref=f53e1247] [cursor=pointer]:
+                  - /url: https://developer.godaddy.com
+              - listitem [ref=f53e1248]:
+                - link "ICANN Confirmation" [ref=f53e1249] [cursor=pointer]:
+                  - /url: https://dcc.godaddy.com/icann/confirmation?marketid=en-US
+              - listitem [ref=f53e1250]:
+                - link "Customer Testimonials" [ref=f53e1251] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/resources/customer-testimonials
+              - listitem [ref=f53e1252]:
+                - link "Corporate Domains" [ref=f53e1253] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/corporate-domains
+              - listitem [ref=f53e1254]:
+                - link "Business Name Generator" [ref=f53e1255] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/business-name-generator
+              - listitem [ref=f53e1256]:
+                - link "GoDaddy Mobile App" [ref=f53e1257] [cursor=pointer]:
+                  - /url: https://studio.click.godaddy.com/FVXM/FOSNav
+              - listitem [ref=f53e1258]:
+                - link "Webmail" [ref=f53e1259] [cursor=pointer]:
+                  - /url: https://email.godaddy.com/?_target=blank
+              - listitem [ref=f53e1260]:
+                - link "WHOIS" [ref=f53e1261] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/whois
+              - listitem [ref=f53e1262]:
+                - link "Redeem Code" [ref=f53e1263] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/redemption
+              - listitem [ref=f53e1264]:
+                - link "Product Catalog" [ref=f53e1265] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/catalog
+          - listitem [ref=f53e1266]:
+            - generic [ref=f53e1267]: Partner Programs
+            - list [ref=f53e1268]:
+              - listitem [ref=f53e1269]:
+                - link "GoDaddy Agency Partner Program" [ref=f53e1270] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/pro/agency-partners
+              - listitem [ref=f53e1271]:
+                - link "Reseller Programs" [ref=f53e1272] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/reseller-program
+              - listitem [ref=f53e1273]:
+                - link "Affiliates" [ref=f53e1274] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/affiliate-programs
+          - listitem [ref=f53e1275]:
+            - generic [ref=f53e1276]: Account
+            - list [ref=f53e1277]:
+              - listitem [ref=f53e1278]:
+                - link "Sign In to GoDaddy" [ref=f53e1279] [cursor=pointer]:
+                  - /url: https://sso.godaddy.com/
+              - listitem [ref=f53e1280]:
+                - link "Create Account" [ref=f53e1281] [cursor=pointer]:
+                  - /url: https://sso.godaddy.com/account/create?realm=idp&path=%2fproducts&app=account
+          - listitem [ref=f53e1282]:
+            - generic [ref=f53e1283]: Shopping
+            - list [ref=f53e1284]:
+              - listitem [ref=f53e1285]:
+                - link "Buy a Domain" [ref=f53e1286] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/domains
+              - listitem [ref=f53e1287]:
+                - link "gTLD Domain Extensions" [ref=f53e1288] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/domains/gtld-domain-names
+              - listitem [ref=f53e1289]:
+                - link "AI Website Builder" [ref=f53e1290] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/websites/ai-website-builder
+              - listitem [ref=f53e1291]:
+                - link "Business Email" [ref=f53e1292] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/email/professional-business-email
+              - listitem [ref=f53e1293]:
+                - link "WordPress" [ref=f53e1294] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/hosting/wordpress-hosting
+              - listitem [ref=f53e1295]:
+                - link "Hosting" [ref=f53e1296] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/hosting-solutions
+              - listitem [ref=f53e1297]:
+                - link "Web Security" [ref=f53e1298] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/web-security
+              - listitem [ref=f53e1299]:
+                - link "Logo Maker" [ref=f53e1300] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/logo-maker
+              - listitem [ref=f53e1301]:
+                - link "Phone Numbers" [ref=f53e1302] [cursor=pointer]:
+                  - /url: https://www.godaddy.com/en-in/conversations
+      - generic [ref=f53e1303]:
+        - link "GoDaddy Home Page" [ref=f53e1304] [cursor=pointer]:
+          - /url: https://www.godaddy.com/en-in
+        - generic [ref=f53e1307]:
+          - button "Content Language Selector. Currently set to India - English." [ref=f53e1310] [cursor=pointer]: India - English
+          - button "Currency Selector. Currently set to INR ₹." [ref=f53e1314] [cursor=pointer]: INR ₹
+        - list [ref=f53e1317]:
+          - listitem [ref=f53e1318]:
+            - link "GoDaddy on Facebook" [ref=f53e1319] [cursor=pointer]:
+              - /url: https://www.facebook.com/godaddy
+          - listitem [ref=f53e1321]:
+            - link "GoDaddy on Instagram" [ref=f53e1322] [cursor=pointer]:
+              - /url: https://www.instagram.com/godaddy
+          - listitem [ref=f53e1324]:
+            - link "GoDaddy on TikTok" [ref=f53e1325] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@godaddy?lang=en
+          - listitem [ref=f53e1327]:
+            - link "GoDaddy on Twitter" [ref=f53e1328] [cursor=pointer]:
+              - /url: https://www.twitter.com/godaddy
+          - listitem [ref=f53e1330]:
+            - link "GoDaddy on Youtube" [ref=f53e1331] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCgH_SmWw9WianYyOB5Y6tEA
+      - generic [ref=f53e1333]:
+        - navigation [ref=f53e1334]:
+          - list [ref=f53e1335]:
+            - listitem [ref=f53e1336]:
+              - link "Legal" [ref=f53e1337] [cursor=pointer]:
+                - /url: https://www.godaddy.com/en-in/legal/agreements
+            - listitem [ref=f53e1338]:
+              - link "Privacy Policy" [ref=f53e1339] [cursor=pointer]:
+                - /url: https://www.godaddy.com/en-in/legal/agreements/privacy-policy
+            - listitem [ref=f53e1340]:
+              - link "Cookies" [ref=f53e1341] [cursor=pointer]:
+                - /url: https://www.godaddy.com/en-in/legal/agreements/cookie-policy
+        - link "Do not sell my personal information" [ref=f53e1343] [cursor=pointer]:
+          - /url: https://www.godaddy.com/en-in/legal/agreements/cookie-policy
+        - generic [ref=f53e1344]: Copyright © 1999 - 2026 GoDaddy Operating Company, LLC. All Rights Reserved. The GoDaddy word mark is a registered trademark of GoDaddy Operating Company, LLC in the US and other countries. The “GO” logo is a registered trademark of GoDaddy.com, LLC in the US.
+        - paragraph [ref=f53e1346]:
+          - text: Use of this Site is subject to express terms of use. By using this site, you signify that you agree to be bound by these
+          - link "Universal Terms of Service" [ref=f53e1347] [cursor=pointer]:
+            - /url: https://www.godaddy.com/legal/agreements/universal-terms-of-service-agreement
+          - text: .
+  - alert [ref=f53e1348]

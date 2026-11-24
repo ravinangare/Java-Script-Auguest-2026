@@ -1,0 +1,71 @@
+- generic [ref=f46e4]:
+  - main [ref=f46e6]:
+    - generic [ref=f46e7]:
+      - link "logo Go from idea to live site in minutes. Get 50 free credits Start for free" [ref=f46e16] [cursor=pointer]:
+        - /url: https://ms.godaddy.com/r?e=eyJ2IjoiMS4xNCIsImF2Ijo1ODgwNjU5LCJhdCI6MjQ0NywiYnQiOjAsImNtIjo1OTQyMTc1MjAsImNoIjo1NDQ0NSwiY2siOnt9LCJjciI6ODk2OTgwMTgxLCJkaSI6Ijk4NDNiYjAxNTkxMjRhZDE4Y2FiZTNlZTkxMjlmZWM5IiwiZGoiOjAsImlpIjoiZTA1YzY3NzcyOGYxNDA4NmJlMmZkYjNiNGYwMmVlMTUiLCJsZSI6WzJdLCJkbSI6MywiZmMiOjEwNzI3MzY5MzMsImZsIjo4NjI1NDA2MjQsImlwIjoiMTYwLjE1My4xOTIuMCIsIm53IjoxMDY2MywicGMiOjIsIm9wIjoyLCJtcCI6MiwiZHAiOjEuMDEsImRuIjoxLjAxLCJkZyI6MS4wMSwiZWMiOjIsImdtIjowLCJlcCI6bnVsbCwicHIiOjI1MDgwNCwicnQiOjIsInJzIjo1MDAsInNhIjoiODYiLCJzYiI6ImktMDBjYzg2MmY4ZGZlMTgyMTQiLCJzcCI6ODI0OTY3LCJzdCI6MTI3NjI2NCwidWsiOiJ1ZTEtNGI5M2FlNTBhNzBlNDEwZjhjMTEwYjFkZWEzNTE2NGUiLCJ6biI6MzA3NDk1LCJ6bSI6WzMwNzQ5NV0sInRzIjoxNzk1NTM2MzYwOTMyLCJwbiI6ImdkLXdhbS1wb3MxIiwiZ2MiOnRydWUsImdDIjp0cnVlLCJncyI6Im5vbmUiLCJ0eiI6IkFtZXJpY2EvVG9yb250byIsInVyIjoiaHR0cHM6Ly93d3cuZ29kYWRkeS5jb20vYWlyby9haS1idWlsZGVyIn0&s=lFVnJZ0uCMXlUQeez-JnuMxq8W4&omsId=baseline&psName=WAM_BANNER_V1&uawVersion=2.3.6&property:publisher_website_key=wam.md5.4ecf1fb20564dfb432ed518a7fd6f725&impressionId=e05c677728f14086be2fdb3b4f02ee15
+        - generic [ref=f46e17]:
+          - generic [ref=f46e18]:
+            - img "logo" [ref=f46e20]
+            - generic [ref=f46e21]: Go from idea to live site in minutes. Get 50 free credits
+          - button "Start for free" [ref=f46e22]
+      - navigation [ref=f46e29]:
+        - link [ref=f46e33] [cursor=pointer]:
+          - /url: /
+          - img "Software DEVELOPMENT Testing" [ref=f46e35]
+        - navigation [ref=f46e38]:
+          - list [ref=f46e39]:
+            - listitem [ref=f46e40]:
+              - link "Home" [ref=f46e41] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f46e42]:
+              - link "Services" [ref=f46e43] [cursor=pointer]:
+                - /url: /services
+            - listitem [ref=f46e44]:
+              - link "Corporate Training" [ref=f46e45] [cursor=pointer]:
+                - /url: /corporate-training
+            - listitem [ref=f46e46]:
+              - link "Placements" [ref=f46e47] [cursor=pointer]:
+                - /url: /placements
+            - listitem [ref=f46e48]:
+              - link "Video" [ref=f46e49] [cursor=pointer]:
+                - /url: /video
+            - listitem [ref=f46e50]:
+              - link "Contact Us" [ref=f46e51] [cursor=pointer]:
+                - /url: /contact-us
+  - region [ref=f46e53]:
+    - generic [ref=f46e56]:
+      - heading "Contact Us" [level=1] [ref=f46e57]
+      - generic [ref=f46e62]:
+        - paragraph [ref=f46e65]:
+          - generic [ref=f46e66]:
+            - link [ref=f46e67] [cursor=pointer]:
+              - /url: https://www.google.com/search?sca_esv=573619808&cs=1&sxsrf=AM9HkKngmDuScA2BZkNcSgTvC50TOiPCjg:1697388164017&q=utkarshaa+academy+pune+address&ludocid=9947799526781565472&sa=X&ved=2ahUKEwiYwbnUv_iBAxWy4zgGHRrlB2kQ6BN6BAgVEAI
+              - strong [ref=f46e68]: Address
+            - strong [ref=f46e69]: ":"
+            - text: Utkarshaa Academy, Near Keyour Electronics, above Canara Bank, Karve Nagar Pune, Maharashtra 411052
+        - generic [ref=f46e70]:
+          - link "Message us on WhatsApp" [ref=f46e71] [cursor=pointer]:
+            - /url: https://wa.me/918830158607
+          - paragraph [ref=f46e81]:
+            - link "+91 - 8830158607" [ref=f46e82] [cursor=pointer]:
+              - /url: tel:+918830158607
+            - link "utkarshaa.academy@gmail.com" [ref=f46e83] [cursor=pointer]:
+              - /url: mailto:utkarshaa.academy@gmail.com
+        - generic [ref=f46e85]:
+          - heading "Hours" [level=4] [ref=f46e86]
+          - generic [ref=f46e87]:
+            - paragraph [ref=f46e88]: "Monday - Saturday: 10am - 6pm"
+            - paragraph [ref=f46e89]: "Sunday: Closed"
+  - contentinfo [ref=f46e97]:
+    - generic [ref=f46e101]:
+      - paragraph [ref=f46e103]: Copyright © 2023 Utkarshaa Academy for Software Development & Testing - All Rights Reserved.
+      - separator [aria-hidden] [ref=f46e104]
+      - generic [ref=f46e105]:
+        - paragraph [ref=f46e106]: Powered by
+        - link [ref=f46e107] [cursor=pointer]:
+          - /url: https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=en-in_corp_applications_base
+  - generic [ref=f46e114]:
+    - heading "This website uses cookies." [level=4] [ref=f46e115]
+    - paragraph [ref=f46e117]: We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.
+    - link "Accept" [ref=f46e119] [cursor=pointer]:
+      - /url: ""
