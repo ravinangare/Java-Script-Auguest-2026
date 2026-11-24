@@ -1,1 +1,0 @@
-{"attachments":[],"errors":[{"message":"afterEach hook failed: Test timeout of 40000ms exceeded while running \"afterEach\" hook.","trace":"Test timeout of 40000ms exceeded while running \"afterEach\" hook.\n    at C:\\Users\\GR0002TU\\Java Script Auguest 2026\\tests\\hooks.spec.js:25:6","status":"broken","timestamp":1793375419053}]}

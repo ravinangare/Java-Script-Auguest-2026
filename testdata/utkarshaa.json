@@ -1,0 +1,39 @@
+{
+    "baseUrl": "https://utkarshaaacademy.com/",
+    "internalPages": [
+        {
+            "name": "Services",
+            "path": "services",
+            "title": "Software Testing"
+        },
+        {
+            "name": "Corporate Training",
+            "path": "corporate-training",
+            "title": "Corporate Training | Software Testing"
+        },
+        {
+            "name": "Placements",
+            "path": "placements",
+            "title": "Placements | Software Testing"
+        },
+        {
+            "name": "Video",
+            "path": "video",
+            "title": "Video | Software Testing"
+        },
+        {
+            "name": "Contact Us",
+            "path": "contact-us",
+            "title": "Software Testing"
+        }
+    ],
+    "demoLinks": [
+        "Book Your Demo Session",
+        "Book Demo Online"
+    ],
+    "demoFormUrlPattern": "docs.google.com/forms/",
+    "demoFormTitle": "Software Testing Demo Session",
+    "goDaddyPromotionUrlPattern": "godaddy.com/.*airo/ai-builder",
+    "goDaddyFooterUrlPattern": "godaddy.com/en-in/websites/website-builder",
+    "cookieAcceptDestination": ""
+}

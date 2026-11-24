@@ -1,1 +1,0 @@
-Response Body: { books: [ { isbn: '9781449325862' } ] }

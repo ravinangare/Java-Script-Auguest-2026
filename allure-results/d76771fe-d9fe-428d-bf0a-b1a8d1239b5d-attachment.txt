@@ -1,2 +1,0 @@
-Establish DB Connection for setup
-Terminate DB Connection

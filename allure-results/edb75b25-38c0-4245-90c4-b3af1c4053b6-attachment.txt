@@ -1,5 +1,0 @@
-Response Body: {
-  userID: '49dac749-d52c-4ef1-9f21-f5c976259167',
-  username: 'vipul1793893696854',
-  books: []
-}
