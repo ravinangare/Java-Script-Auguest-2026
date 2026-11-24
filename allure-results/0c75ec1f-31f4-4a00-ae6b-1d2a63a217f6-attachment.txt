@@ -1,6 +1,0 @@
-Response Body: {
-  token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6InZpcHVsMTc5Mzg5NTg2ODQ0MyIsInBhc3N3b3JkIjoiVGVzdEAxMjM0IiwiaWF0IjoxNzkzODk1ODc1fQ.3Qs97H3Sd4ObFBH8nSfpQIBCwt-r_JGqIt-cZq9kYyQ',
-  expires: '2026-11-12T16:24:35.635Z',
-  status: 'Success',
-  result: 'User authorized successfully.'
-}
